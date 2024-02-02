@@ -1,6 +1,7 @@
 sudo: false
 os: linux
 rvm: 2.6.3
+
 jobs:
   include:
     - stage: unit tests
